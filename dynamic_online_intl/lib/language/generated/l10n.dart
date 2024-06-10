@@ -90,10 +90,10 @@ class S {
     );
   }
 
-  /// `New world`
+  /// `(dev)New world`
   String get new_world {
     return Intl.message(
-      'New world',
+      '(dev)New world',
       name: 'new_world',
       desc: '',
       args: [],
