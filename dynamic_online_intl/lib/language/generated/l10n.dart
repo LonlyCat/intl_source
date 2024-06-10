@@ -80,10 +80,10 @@ class S {
     );
   }
 
-  /// `World`
+  /// `World on dev`
   String get world {
     return Intl.message(
-      'World',
+      'World on dev',
       name: 'world',
       desc: '',
       args: [],
