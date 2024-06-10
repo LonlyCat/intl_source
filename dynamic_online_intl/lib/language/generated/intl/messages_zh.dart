@@ -26,6 +26,6 @@ class MessageLookup extends MessageLookupByLibrary {
         "new_world": MessageLookupByLibrary.simpleMessage("新世界"),
         "some": MessageLookupByLibrary.simpleMessage("(dev)一些文本"),
         "test": MessageLookupByLibrary.simpleMessage("(dev)测试"),
-        "world": MessageLookupByLibrary.simpleMessage("世界")
+        "world": MessageLookupByLibrary.simpleMessage("(dev)世界")
       };
 }
