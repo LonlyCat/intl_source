@@ -50,10 +50,10 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `test string on dev branch`
+  /// `(dev)test string`
   String get test {
     return Intl.message(
-      'test string on dev branch',
+      '(dev)test string',
       name: 'test',
       desc: '',
       args: [],
