@@ -2,5 +2,6 @@
   "test":"This is new online title",
   "some": "Some text",
   "hello": "Hello world!",
-  "world": "World"
+  "world": "World",
+  "new_world": "New world"
 }
