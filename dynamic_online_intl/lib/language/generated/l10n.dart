@@ -60,10 +60,10 @@ class S {
     );
   }
 
-  /// `Some text`
+  /// `Some text on dev`
   String get some {
     return Intl.message(
-      'Some text',
+      'Some text on dev',
       name: 'some',
       desc: '',
       args: [],

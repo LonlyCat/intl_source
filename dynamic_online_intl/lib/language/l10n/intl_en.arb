@@ -1,7 +1,1 @@
-{
-  "test":"test string on dev branch",
-  "some": "Some text",
-  "hello": "Hello world!",
-  "world": "World",
-  "new_world": "New world"
-}
+{"test":"test string on dev branch","some":"Some text on dev","hello":"Hello world!","world":"World","new_world":"New world"}
