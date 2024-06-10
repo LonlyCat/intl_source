@@ -26,7 +26,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "new_world": MessageLookupByLibrary.simpleMessage("New world"),
         "some": MessageLookupByLibrary.simpleMessage("Some text"),
         "test":
-            MessageLookupByLibrary.simpleMessage("This is new online title"),
+            MessageLookupByLibrary.simpleMessage("test string on dev branch"),
         "world": MessageLookupByLibrary.simpleMessage("World")
       };
 }

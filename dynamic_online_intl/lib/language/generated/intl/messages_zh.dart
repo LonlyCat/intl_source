@@ -25,7 +25,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "hello": MessageLookupByLibrary.simpleMessage("你好"),
         "new_world": MessageLookupByLibrary.simpleMessage("新世界"),
         "some": MessageLookupByLibrary.simpleMessage("一些文本"),
-        "test": MessageLookupByLibrary.simpleMessage("这是中文在线多语言"),
+        "test": MessageLookupByLibrary.simpleMessage("dev分支测试"),
         "world": MessageLookupByLibrary.simpleMessage("世界")
       };
 }
