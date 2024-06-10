@@ -70,10 +70,10 @@ class S {
     );
   }
 
-  /// `Hello world!`
+  /// `(dev)Hello world!`
   String get hello {
     return Intl.message(
-      'Hello world!',
+      '(dev)Hello world!',
       name: 'hello',
       desc: '',
       args: [],
