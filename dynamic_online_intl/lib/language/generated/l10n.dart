@@ -50,30 +50,30 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `(dev1)test string`
+  /// `(dev2)test string`
   String get test {
     return Intl.message(
-      '(dev1)test string',
+      '(dev2)test string',
       name: 'test',
       desc: '',
       args: [],
     );
   }
 
-  /// `(dev1)Some text`
+  /// `(dev2)Some text`
   String get some {
     return Intl.message(
-      '(dev1)Some text',
+      '(dev2)Some text',
       name: 'some',
       desc: '',
       args: [],
     );
   }
 
-  /// `(dev1)Hello world!`
+  /// `(dev2)Hello world!`
   String get hello {
     return Intl.message(
-      '(dev1)Hello world!',
+      '(dev2)Hello world!',
       name: 'hello',
       desc: '',
       args: [],
@@ -90,10 +90,10 @@ class S {
     );
   }
 
-  /// `(dev)New world`
+  /// `(dev1)New world`
   String get new_world {
     return Intl.message(
-      '(dev)New world',
+      '(dev1)New world',
       name: 'new_world',
       desc: '',
       args: [],
