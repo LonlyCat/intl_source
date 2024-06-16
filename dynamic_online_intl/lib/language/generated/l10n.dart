@@ -80,20 +80,20 @@ class S {
     );
   }
 
-  /// `(dev1)World`
+  /// `(dev2)World`
   String get world {
     return Intl.message(
-      '(dev1)World',
+      '(dev2)World',
       name: 'world',
       desc: '',
       args: [],
     );
   }
 
-  /// `(dev1)New world`
+  /// `(dev2)New world`
   String get new_world {
     return Intl.message(
-      '(dev1)New world',
+      '(dev2)New world',
       name: 'new_world',
       desc: '',
       args: [],
